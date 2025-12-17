@@ -1,0 +1,18 @@
+npx react-native init workinsite --version 0.75.4
+---------------------------------------------------
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm install @react-navigation/bottom-tabs
+npm install react-native-animatable --save
+npm install axios
+npm install @react-native-async-storage/async-storage
+npm i @react-native-community/netinfo
+npm install react-native-vector-icons
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm i react-native-modal-datetime-picker @react-native-community/datetimepicker
+npm install --save moment react-moment
+npm i react-native-swiper --save
+npm install --save react-native-snap-carousel
+npm i react-native-raw-bottom-sheet
+npm i react-native-responsive-screen
